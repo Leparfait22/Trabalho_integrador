@@ -1,6 +1,6 @@
 # Sistema de delivery de Bebidas 
 
-Para a realização do Trabalho integrador para as disciplinas de Engenharia de Software 1, Programação 2 e Bancos de Dados 1, nos decidimos realizar um sistema de delivery de bebidas para uma loja de bebidas  na cidade de Bélem - Pará.
+Para o desenvolvimento do Projeto Integrador que engloba as disciplinas de Engenharia de Software 1, Programação 2 e Bancos de Dados 1, nossa equipe optou por criar um sistema de entrega de bebidas destinado a uma loja especializada em bebidas na cidade de Santarém, localizada no estado do Pará.
 
 
 ## Indice 
@@ -8,7 +8,7 @@ Para a realização do Trabalho integrador para as disciplinas de Engenharia de 
 - <a href="#descrição"> Descrição do projeto</a>
 - <a href="#funcionalidades"> Funcionalidades do projeto</a>
 - <a href="#tecnologias"> Tecnologias a ser usadas </a>
-- <a href="#pessoas"> Particapantes no projeto</a>
+- <a href="#pessoas"> Participantes no projeto</a>
 
 ## 📋 Descrição do projeto
 <a name="descrição"></a>
@@ -48,6 +48,6 @@ As seguintes ferramentas serão utilizadas na construção do projeto:
 
 
 ## ⚙️ Participantes no projeto
-<a name="pessoas"> </a>
+<a name="pessoas"></a>
 - Ana Clara Santos de Jesus 
 - Komi Parfait Moussougan
